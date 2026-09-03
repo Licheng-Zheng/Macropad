@@ -128,4 +128,4 @@ Hardware lost along the way, you will be remembered:
 - A raspberry pi pico
   - Melted the bootsel button while trying to solder on the ground wire
 - A joystick
-  - X kept on jumping around
+  - X kept on jumping around. I thought it was due to the carbon track breaking, but it may have been because my wiring was wrong. 
