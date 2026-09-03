@@ -6,7 +6,8 @@ A custom 9-key mechanical macropad with an OLED display and joystick that is ver
 - Under $20 dollars in prorated (I only count a proportion of a cost if I only use a portion of the materials) materials. 
   - If you are looking at this, you probably already have some basic materials at home like wires and raspberry pi picos, so it will likely be significantly cheaper. I only had to spend 5 dollars for this project, and that was because I melted my first raspberry pi. 
 
-**IMAGES OF THE FINISHED MACROPAD**
+<img width="1280" height="964" alt="image" src="https://github.com/user-attachments/assets/408d7f1b-3fb7-4298-8587-06746134ebc3" />
+
 
 #### Hardware Limitations 
 Because this device is a usb device, they can only send in key presses at the rate that your USB polls. For example, I currently have mine set up to quickly type in a file path that I use frequently, and it takes a couple milliseconds for it to type out. This is due to the fact that USB devices aren't able to paste in things (I think it is due to security reasons). Keyboards can only use the HID protocol, which sends one command every USB polling cycle.  
@@ -55,7 +56,9 @@ This is super important, this is how you switch different modes. All three keys 
 #### Pinout 
 This is how everything needs to be soldered, try not to use much more wire than required, because this makes the case very hard to close. For it to fit in the case that I modelled, headers will need to be removed. 
 
-**AN IMAGE OF THE INTERNAL WIRING** 
+<img width="1000" height="800" alt="PXL_20260902_155708936" src="https://github.com/user-attachments/assets/e7f1e409-9440-45bc-8473-e56d95394758" /> <img width="800" height="1100" alt="PXL_20260902_155405590" src="https://github.com/user-attachments/assets/cc4a5ec8-1c4b-46c9-8c99-bf60b213289c" />
+
+
 
 | Component | Module Pin | Pico Connection (GPIO) | Pico Physical Pin | Notes |
 | --- | --- | --- | --- | --- |
