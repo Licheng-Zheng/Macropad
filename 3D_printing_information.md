@@ -3,6 +3,12 @@ Here are the different parts that are important in this build. I've included scr
 
 Everything is printed in White PLA on an Ender 3 V2. I am using the default settings on PrusaSlicer. 
 
+Here are two images that will hopefully help you see how everything goes together:
+
+<img width="340" alt="Screenshot 2026-09-04 133443" src="https://github.com/user-attachments/assets/45d7e2af-84ba-40f8-ae58-13838c83126e" />
+<img width="340" alt="Screenshot 2026-09-04 133624" src="https://github.com/user-attachments/assets/e387e672-c8e9-4da4-824b-99b1b509c428" />
+
+
 ##### Angler - 8.96 grams of filament
 These can be customized to change how far off the ground you want the macropad to stand. Currently, it is at about 8 degrees. They are super interchageable (4 screws hold them in place, so they are not permanently attached)
 
