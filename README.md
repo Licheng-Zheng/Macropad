@@ -6,7 +6,7 @@ A custom 9-key mechanical macropad with an OLED display and joystick that is ver
 - Under $20 dollars in prorated (I only count a proportion of a cost if I only use a portion of the materials) materials. 
   - If you are looking at this, you probably already have some basic materials at home like wires and raspberry pi picos, so it will likely be significantly cheaper. I only had to spend 5 dollars for this project, and that was because I melted my first raspberry pi. 
 
-<img height="520" alt="image" src="https://github.com/user-attachments/assets/408d7f1b-3fb7-4298-8587-06746134ebc3" /> <img height="520" alt="Screenshot 2026-09-04 133624" src="https://github.com/user-attachments/assets/87e399c7-3231-4513-81a4-1c400494ef1a" />
+<img height="300" alt="image" src="https://github.com/user-attachments/assets/408d7f1b-3fb7-4298-8587-06746134ebc3" /> <img height="300" alt="Screenshot 2026-09-04 133624" src="https://github.com/user-attachments/assets/87e399c7-3231-4513-81a4-1c400494ef1a" />
 
 #### Hardware Limitations 
 Because this device is a usb device, they can only send in key presses at the rate that your USB polls. For example, I currently have mine set up to quickly type in a file path that I use frequently, and it takes a couple milliseconds for it to type out. This is due to the fact that USB devices aren't able to paste in things (I think it is due to security reasons). Keyboards can only use the HID protocol, which sends one command every USB polling cycle.  
